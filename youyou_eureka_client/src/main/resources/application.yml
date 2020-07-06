@@ -1,0 +1,11 @@
+server:
+  port: 8762
+
+spring:
+  application:
+    name: eureka-client #ribbon不支持下划线的名字，支持横线
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/

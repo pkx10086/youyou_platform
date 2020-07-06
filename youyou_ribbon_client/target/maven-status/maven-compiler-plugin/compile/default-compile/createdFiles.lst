@@ -1,0 +1,4 @@
+com\youyou\platform\service\impl\TestRibbonRestImpl.class
+com\youyou\platform\service\TestRibbonRestService.class
+com\youyou\platform\controller\TestRibbonRestController.class
+com\youyou\platform\RibbonClientApplication.class

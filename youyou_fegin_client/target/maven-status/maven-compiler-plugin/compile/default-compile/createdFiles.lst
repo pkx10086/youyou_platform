@@ -1,0 +1,4 @@
+com\youyou\platform\controller\FeginController.class
+com\youyou\platform\inter\OuterCallBackServiceHystric.class
+com\youyou\platform\inter\OuterModuleInterface.class
+com\youyou\platform\FeginClientApplication.class
