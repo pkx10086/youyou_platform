@@ -1,114 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="95a0ae88-da43-455d-a924-29f45b649d4d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/youyou_eureka_Web_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_config_server/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_config_server/src/main/java/youyou_platform/ConfigServerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_config_server/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_config_server/src/test/java/youyou_platform/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_config_server/youyou_config_server.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_eureka/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_eureka/src/main/java/com.youyou.platform/EurekaServerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_eureka/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_eureka/src/test/java/com/youyou/platform/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_eureka/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_eureka/target/classes/youyou_platform/EurekaServerApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_eureka/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_eureka/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_eureka/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_eureka/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_eureka/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_eureka/target/surefire-reports/TEST-com.youyou.platform.AppTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_eureka/target/surefire-reports/com.youyou.platform.AppTest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_eureka/target/test-classes/com/youyou/platform/AppTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_eureka/target/youyou_eureka-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_eureka/youyou_eureka.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_eureka_client/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_eureka_client/src/main/java/com/youyou/platform/EurekaClientApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_eureka_client/src/main/java/com/youyou/platform/controller/TestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_eureka_client/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_eureka_client/src/test/java/com/youyou/platform/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_eureka_client/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_eureka_client/target/classes/com/youyou/platform/EurekaClientApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_eureka_client/target/classes/com/youyou/platform/controller/TestController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_eureka_client/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_eureka_client/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_eureka_client/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_eureka_client/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_eureka_client/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_eureka_client/target/surefire-reports/TEST-com.youyou.platform.AppTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_eureka_client/target/surefire-reports/com.youyou.platform.AppTest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_eureka_client/target/test-classes/com/youyou/platform/AppTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_eureka_client/target/youyou_eureka_client-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_fegin_client/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_fegin_client/src/main/java/com/youyou/platform/FeginClientApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_fegin_client/src/main/java/com/youyou/platform/controller/FeginController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_fegin_client/src/main/java/com/youyou/platform/inter/OuterCallBackServiceHystric.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_fegin_client/src/main/java/com/youyou/platform/inter/OuterModuleInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_fegin_client/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_fegin_client/src/test/java/com/youyou/platform/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_fegin_client/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_fegin_client/target/classes/com/youyou/platform/FeginClientApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_fegin_client/target/classes/com/youyou/platform/controller/FeginController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_fegin_client/target/classes/com/youyou/platform/inter/OuterCallBackServiceHystric.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_fegin_client/target/classes/com/youyou/platform/inter/OuterModuleInterface.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_fegin_client/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_fegin_client/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_fegin_client/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_fegin_client/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_fegin_client/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_fegin_client/target/surefire-reports/2020-07-06T21-57-14_594-jvmRun1.dump" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_fegin_client/target/surefire-reports/TEST-com.youyou.platform.AppTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_fegin_client/target/surefire-reports/com.youyou.platform.AppTest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_fegin_client/target/test-classes/com/youyou/platform/AppTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_fegin_client/target/youyou_fegin_client-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_platform.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_ribbon_client/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_ribbon_client/src/main/java/com/youyou/platform/RibbonClientApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_ribbon_client/src/main/java/com/youyou/platform/controller/TestRibbonRestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_ribbon_client/src/main/java/com/youyou/platform/service/TestRibbonRestService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_ribbon_client/src/main/java/com/youyou/platform/service/impl/TestRibbonRestImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_ribbon_client/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_ribbon_client/src/test/java/com/youyou/platform/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_ribbon_client/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_ribbon_client/target/classes/com/youyou/platform/RibbonClientApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_ribbon_client/target/classes/com/youyou/platform/controller/TestRibbonRestController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_ribbon_client/target/classes/com/youyou/platform/service/TestRibbonRestService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_ribbon_client/target/classes/com/youyou/platform/service/impl/TestRibbonRestImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_ribbon_client/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_ribbon_client/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_ribbon_client/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_ribbon_client/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_ribbon_client/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_ribbon_client/target/surefire-reports/TEST-com.youyou.platform.AppTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_ribbon_client/target/surefire-reports/com.youyou.platform.AppTest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_ribbon_client/target/test-classes/com/youyou/platform/AppTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_ribbon_client/target/youyou_ribbon_client-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_zuul_client/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_zuul_client/src/main/java/com/youyou/platform/ZuulClientApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_zuul_client/src/main/java/com/youyou/platform/filter/MyFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_zuul_client/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_zuul_client/src/test/java/com/youyou/platform/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_zuul_client/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_zuul_client/target/classes/com/youyou/platform/ZuulClientApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_zuul_client/target/classes/com/youyou/platform/filter/MyFilter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_zuul_client/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_zuul_client/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_zuul_client/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_zuul_client/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_zuul_client/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_zuul_client/target/surefire-reports/TEST-com.youyou.platform.AppTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_zuul_client/target/surefire-reports/com.youyou.platform.AppTest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_zuul_client/target/test-classes/com/youyou/platform/AppTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_zuul_client/target/youyou_zuul_client-1.0-SNAPSHOT.jar" afterDir="false" />
+    <list default="true" id="95a0ae88-da43-455d-a924-29f45b649d4d" name="Default Changelist" comment="提交配置中心远程文件，没有单独拿出一个配置。">
+      <change afterPath="$PROJECT_DIR$/youyou_config_client/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youyou_config_client/src/main/java/com/youyou/platform/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youyou_config_client/src/main/resources/bootstrap.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/youyou_config_server/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/config-client-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config/config-client-dev.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youyou_config_server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/youyou_config_server/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youyou_config_server/src/main/java/youyou_platform/ConfigServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/youyou_config_server/src/main/java/com/youyou/platform/ConfigServerApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youyou_config_server/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/youyou_config_server/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youyou_config_server/src/test/java/youyou_platform/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/youyou_config_server/src/test/java/com/youyou/platform/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youyou_eureka/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/youyou_eureka/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youyou_eureka/src/main/java/com.youyou.platform/EurekaServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/youyou_eureka/src/main/java/com.youyou.platform/EurekaServerApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youyou_eureka/target/classes/youyou_platform/EurekaServerApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/youyou_eureka/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/youyou_eureka/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youyou_eureka/target/surefire-reports/TEST-com.youyou.platform.AppTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/youyou_eureka/target/surefire-reports/TEST-com.youyou.platform.AppTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youyou_eureka/target/surefire-reports/com.youyou.platform.AppTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/youyou_eureka/target/surefire-reports/com.youyou.platform.AppTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youyou_eureka/target/youyou_eureka-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/youyou_eureka/target/youyou_eureka-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youyou_eureka_client/target/surefire-reports/TEST-com.youyou.platform.AppTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/youyou_eureka_client/target/surefire-reports/TEST-com.youyou.platform.AppTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youyou_eureka_client/target/surefire-reports/com.youyou.platform.AppTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/youyou_eureka_client/target/surefire-reports/com.youyou.platform.AppTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youyou_eureka_client/target/youyou_eureka_client-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/youyou_eureka_client/target/youyou_eureka_client-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youyou_fegin_client/target/surefire-reports/2020-07-06T21-57-14_594-jvmRun1.dump" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/youyou_fegin_client/target/surefire-reports/TEST-com.youyou.platform.AppTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/youyou_fegin_client/target/surefire-reports/TEST-com.youyou.platform.AppTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youyou_fegin_client/target/surefire-reports/com.youyou.platform.AppTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/youyou_fegin_client/target/surefire-reports/com.youyou.platform.AppTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youyou_fegin_client/target/youyou_fegin_client-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/youyou_fegin_client/target/youyou_fegin_client-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youyou_ribbon_client/target/surefire-reports/TEST-com.youyou.platform.AppTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/youyou_ribbon_client/target/surefire-reports/TEST-com.youyou.platform.AppTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youyou_ribbon_client/target/surefire-reports/com.youyou.platform.AppTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/youyou_ribbon_client/target/surefire-reports/com.youyou.platform.AppTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youyou_ribbon_client/target/youyou_ribbon_client-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/youyou_ribbon_client/target/youyou_ribbon_client-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youyou_zuul_client/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/youyou_zuul_client/target/classes/com/youyou/platform/ZuulClientApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/youyou_zuul_client/target/classes/com/youyou/platform/filter/MyFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/youyou_zuul_client/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/youyou_zuul_client/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/youyou_zuul_client/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/youyou_zuul_client/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/youyou_zuul_client/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/youyou_zuul_client/target/surefire-reports/TEST-com.youyou.platform.AppTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/youyou_zuul_client/target/surefire-reports/com.youyou.platform.AppTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/youyou_zuul_client/target/test-classes/com/youyou/platform/AppTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/youyou_zuul_client/target/youyou_zuul_client-1.0-SNAPSHOT.jar" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -121,6 +56,7 @@
     <ignored path="$PROJECT_DIR$/youyou_zuul_client/target/" />
     <ignored path="$PROJECT_DIR$/youyou_zuul_client/youyou_config_server/target/" />
     <ignored path="$PROJECT_DIR$/youyou_config_server/target/" />
+    <ignored path="$PROJECT_DIR$/youyou_config_client/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,118 +69,104 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/youyou_ribbon_client/src/main/java/com/youyou/platform/controller/TestRibbonRestController.java">
+        <entry file="file://$PROJECT_DIR$/youyou_config_server/src/main/java/com/youyou/platform/ConfigServerApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="25" column="32" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="32" />
+            <state relative-caret-position="127">
+              <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#367#368#0" expanded="true" />
+                <element signature="e#440#441#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/youyou_ribbon_client/src/main/resources/application.yml">
+        <entry file="file://$PROJECT_DIR$/youyou_eureka/src/main/java/com.youyou.platform/EurekaServerApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/youyou_fegin_client/src/main/java/com/youyou/platform/controller/FeginController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
-              <caret line="19" column="31" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="31" />
+            <state relative-caret-position="104">
+              <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#465#466#0" expanded="true" />
+                <element signature="e#540#541#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/youyou_zuul_client/src/main/java/com/youyou/platform/ZuulClientApplication.java">
+        <entry file="file://$PROJECT_DIR$/youyou_eureka/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="181">
-              <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#166#167#0" expanded="true" />
-                <element signature="e#236#237#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="22">
+              <caret line="1" column="12" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/youyou_zuul_client/src/main/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="12" column="7" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/youyou_zuul_client/src/main/java/com/youyou/platform/filter/MyFilter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-194">
-              <caret line="50" column="49" selection-start-line="50" selection-start-column="49" selection-end-line="50" selection-end-column="49" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#721#722#0" expanded="true" />
-                <element signature="e#749#750#0" expanded="true" />
-                <element signature="e#995#996#0" expanded="true" />
-                <element signature="e#1019#1020#0" expanded="true" />
-                <element signature="e#1109#1110#0" expanded="true" />
-                <element signature="e#1136#1137#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/youyou_zuul_client/pom.xml">
+        <entry file="file://$PROJECT_DIR$/youyou_config_client/pom.xml">
           <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="151">
-              <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+            <state relative-caret-position="-24">
+              <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/youyou_config_server/pom.xml">
-          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+        <entry file="file://$PROJECT_DIR$/youyou_config_server/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="110">
+              <caret line="5" column="79" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="79" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/youyou_config_server/src/main/java/youyou_platform/ConfigServerApplication.java">
+        <entry file="file://$PROJECT_DIR$/youyou_config_server/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/youyou_config_client/src/main/java/com/youyou/platform/ConfigClientApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="67">
+              <caret line="16" column="31" lean-forward="true" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#254#255#0" expanded="true" />
-                <element signature="e#288#289#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/youyou_config_client/src/main/java/com/youyou/platform/controller/HelloController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="25" column="32" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/config-client-dev.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="21" selection-start-column="21" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/youyou_config_server/src/main/resources/application.properties">
+        <entry file="file://$PROJECT_DIR$/youyou_config_client/src/main/resources/bootstrap.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+            <state relative-caret-position="239">
+              <caret line="17" column="25" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -265,11 +187,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/youyou_eureka/src/main/java/youyou_platform/App.java" />
-        <option value="$PROJECT_DIR$/youyou_eureka/src/main/java/youyou_platform/EurekaServerApplication.java" />
         <option value="$PROJECT_DIR$/youyou_eureka/src/main/java/resources/appication.yml" />
-        <option value="$PROJECT_DIR$/youyou_eureka/src/main/java/com.youyou.platform/EurekaServerApplication.java" />
-        <option value="$PROJECT_DIR$/youyou_eureka/pom.xml" />
         <option value="$PROJECT_DIR$/youyou_eureka/src/main/resources/appication.yml" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/youyou_eureka_client/src/main/java/youyou_platform/App.java" />
@@ -304,10 +222,22 @@
         <option value="$PROJECT_DIR$/youyou_zuul_client/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/youyou_zuul_client/src/main/java/com/youyou/platform/filter/MyFilter.java" />
         <option value="$PROJECT_DIR$/youyou_zuul_client/pom.xml" />
-        <option value="$PROJECT_DIR$/youyou_config_server/pom.xml" />
         <option value="$PROJECT_DIR$/youyou_config_server/src/main/java/youyou_platform/App.java" />
         <option value="$PROJECT_DIR$/youyou_config_server/src/main/java/youyou_platform/ConfigServerApplication.java" />
+        <option value="$PROJECT_DIR$/youyou_config_client/src/main/java/com/youyou/latform/App.java" />
+        <option value="$PROJECT_DIR$/youyou_config_client/src/main/java/com/youyou/latform/ConfigClientApplication.java" />
+        <option value="$PROJECT_DIR$/youyou_config_client/src/main/java/com/youyou/latform/controller/HelloController.java" />
+        <option value="$PROJECT_DIR$/youyou_config_server/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/youyou_config_server/pom.xml" />
+        <option value="$PROJECT_DIR$/youyou_eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/youyou_config_server/src/main/java/com/youyou/latform/ConfigServerApplication.java" />
+        <option value="$PROJECT_DIR$/youyou_config_server/src/main/java/com/youyou/platform/ConfigServerApplication.java" />
+        <option value="$PROJECT_DIR$/youyou_eureka/src/main/java/com.youyou.platform/EurekaServerApplication.java" />
         <option value="$PROJECT_DIR$/youyou_config_server/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/youyou_config_client/src/main/java/com/youyou/platform/ConfigClientApplication.java" />
+        <option value="$PROJECT_DIR$/youyou_config_client/src/main/resources/bootstrap.properties" />
+        <option value="$PROJECT_DIR$/youyou_config_client/pom.xml" />
+        <option value="$PROJECT_DIR$/config/config-client-dev.properties" />
       </list>
     </option>
   </component>
@@ -332,12 +262,17 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="youyou_platform" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="youyou_config_client" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="youyou_platform" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="youyou_config_client" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="youyou_config_client" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
         </path>
       </expand>
       <select />
@@ -356,6 +291,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -363,11 +299,68 @@
               <item name="youyou_platform" type="b2602c69:ProjectViewProjectNode" />
               <item name="youyou_platform" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="youyou_platform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youyou_platform" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youyou_platform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youyou_platform" type="462c0819:PsiDirectoryNode" />
+              <item name="youyou_config_client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youyou_platform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youyou_platform" type="462c0819:PsiDirectoryNode" />
+              <item name="youyou_config_client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youyou_platform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youyou_platform" type="462c0819:PsiDirectoryNode" />
+              <item name="youyou_config_client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youyou_platform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youyou_platform" type="462c0819:PsiDirectoryNode" />
+              <item name="youyou_config_client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youyou_platform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youyou_platform" type="462c0819:PsiDirectoryNode" />
+              <item name="youyou_config_client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="platform" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youyou_platform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youyou_platform" type="462c0819:PsiDirectoryNode" />
+              <item name="youyou_config_client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="platform" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youyou_platform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youyou_platform" type="462c0819:PsiDirectoryNode" />
+              <item name="youyou_config_client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -384,7 +377,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.13736792" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
@@ -415,88 +408,72 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.ZuulClientApplication">
-    <configuration name="EurekaClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false" temporary="true" nameIsGenerated="true">
-      <module name="youyou_eureka_client" />
+  <component name="RunManager" selected="Spring Boot.ConfigClientApplication">
+    <configuration name="ConfigClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false" temporary="true" nameIsGenerated="true">
+      <module name="youyou_config_client" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.youyou.platform.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.youyou.platform.EurekaClientApplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.youyou.platform.ConfigClientApplication" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="youyou_eureka" />
+    <configuration name="ConfigServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="youyou_config_server" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="youyou_platform.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="youyou_platform.EurekaServerApplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="youyou_platform.ConfigServerApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FeginClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="true" temporary="true" nameIsGenerated="true">
-      <module name="youyou_fegin_client" />
+    <configuration name="ConfigServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false" temporary="true" nameIsGenerated="true">
+      <module name="youyou_config_server" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.youyou.platform.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.youyou.platform.FeginClientApplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.youyou.platform.ConfigServerApplication" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RibbonClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="youyou_ribbon_client" />
+    <configuration name="EurekaServerApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="youyou_eureka" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.youyou.platform.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.youyou.platform.RibbonClientApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ZuulClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="youyou_zuul_client" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.youyou.platform.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.youyou.platform.ZuulClientApplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.youyou.platform.EurekaServerApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Spring Boot.EurekaClientApplication" />
-      <item itemvalue="Spring Boot.EurekaServerApplication" />
-      <item itemvalue="Spring Boot.RibbonClientApplication" />
-      <item itemvalue="Spring Boot.FeginClientApplication" />
-      <item itemvalue="Spring Boot.ZuulClientApplication" />
+      <item itemvalue="Spring Boot.ConfigServerApplication" />
+      <item itemvalue="Spring Boot.ConfigClientApplication" />
+      <item itemvalue="Spring Boot.EurekaServerApplication (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.ZuulClientApplication" />
-        <item itemvalue="Spring Boot.RibbonClientApplication" />
-        <item itemvalue="Spring Boot.FeginClientApplication" />
-        <item itemvalue="Spring Boot.EurekaClientApplication" />
-        <item itemvalue="Spring Boot.EurekaServerApplication" />
+        <item itemvalue="Spring Boot.ConfigClientApplication" />
+        <item itemvalue="Spring Boot.ConfigServerApplication" />
+        <item itemvalue="Spring Boot.EurekaServerApplication (1)" />
+        <item itemvalue="Spring Boot.ConfigServerApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -516,17 +493,49 @@
       <workItem from="1593917768076" duration="582000" />
       <workItem from="1593999735953" duration="716000" />
       <workItem from="1594022817651" duration="5147000" />
-      <workItem from="1594041500926" duration="4228000" />
+      <workItem from="1594041500926" duration="5921000" />
+      <workItem from="1594085791355" duration="477000" />
+      <workItem from="1594129353900" duration="4869000" />
     </task>
+    <task id="LOCAL-00001" summary="初始提交">
+      <created>1594045838802</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594045838802</updated>
+    </task>
+    <task id="LOCAL-00002" summary="提交配置中心远程文件，没有单独拿出一个配置。">
+      <created>1594046294860</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1594046294860</updated>
+    </task>
+    <task id="LOCAL-00003" summary="提交配置中心远程文件，没有单独拿出一个配置。">
+      <created>1594131461237</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1594131461238</updated>
+    </task>
+    <task id="LOCAL-00004" summary="提交配置中心远程文件，没有单独拿出一个配置。">
+      <created>1594134235846</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1594134235846</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28284000" />
+    <option name="totallyTimeSpent" value="35323000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26626325" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21709532" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -536,24 +545,24 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.5153061" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.38330495" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.82980335" weight="0.4616695" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49924356" weight="0.31345826" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="ConsoleMavenPlugin" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50075644" side_tool="true" weight="0.4506803" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.17019667" side_tool="true" weight="0.4616695" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.32879046" />
       <window_info anchor="bottom" id="Spring" order="13" weight="0.32993197" />
       <window_info anchor="bottom" id="Java Enterprise" order="14" weight="0.32993197" />
       <window_info anchor="bottom" id="Messages" order="15" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" weight="0.25189108" />
+      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.40922844" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="SciView" order="6" />
@@ -603,6 +612,11 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="初始提交" />
+    <MESSAGE value="提交配置中心远程文件，没有单独拿出一个配置。" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交配置中心远程文件，没有单独拿出一个配置。" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -623,14 +637,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/youyou_eureka/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="18" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="18" />
-        </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/youyou_eureka_client/youyou_ribbon_client/pom.xml" />
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.5.RELEASE/spring-beans-5.1.5.RELEASE.jar!/org/springframework/beans/factory/annotation/Value.class">
       <provider selected="true" editor-type-id="text-editor">
@@ -639,20 +645,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/youyou_eureka/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/youyou_eureka_client/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
           <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
         </state>
       </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
     <entry file="file://$PROJECT_DIR$/youyou_ribbon_client/src/main/java/com/youyou/platform/service/TestRibbonRestService.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -680,20 +679,20 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/youyou_fegin_client/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="748">
           <caret line="34" selection-start-line="34" selection-end-line="34" />
         </state>
       </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
     <entry file="file://$PROJECT_DIR$/youyou_ribbon_client/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
         </state>
       </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
     <entry file="file://$PROJECT_DIR$/youyou_ribbon_client/src/main/java/com/youyou/platform/service/impl/TestRibbonRestImpl.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -741,22 +740,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
           <caret line="31" column="41" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
-        </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/youyou_eureka/src/main/java/com.youyou.platform/EurekaServerApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="73">
-          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#465#466#0" expanded="true" />
-            <element signature="e#540#541#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -821,13 +808,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/youyou_zuul_client/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="12" column="7" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/youyou_zuul_client/src/main/java/com/youyou/platform/ZuulClientApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="181">
@@ -856,14 +836,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/youyou_zuul_client/youyou_config_server/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/youyou_zuul_client/youyou_config_server/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/youyou_zuul_client/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/youyou_zuul_client/pom.xml">
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
+        <state relative-caret-position="286">
           <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
         </state>
       </provider>
@@ -871,27 +855,99 @@
     <entry file="file://$PROJECT_DIR$/youyou_config_server/pom.xml">
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="129">
+          <caret line="42" column="5" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/youyou_config_server/src/main/java/youyou_platform/ConfigServerApplication.java">
+    <entry file="file://$PROJECT_DIR$/youyou_eureka/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="312">
+          <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youyou_eureka/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youyou_config_client/src/main/java/com/youyou/platform/controller/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="25" column="32" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#254#255#0" expanded="true" />
-            <element signature="e#288#289#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/youyou_config_server/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/youyou_config_server/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        <state relative-caret-position="110">
+          <caret line="5" column="79" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youyou_eureka/src/main/java/com.youyou.platform/EurekaServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#465#466#0" expanded="true" />
+            <element signature="e#540#541#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youyou_config_server/src/main/java/com/youyou/platform/ConfigServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#367#368#0" expanded="true" />
+            <element signature="e#440#441#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youyou_config_client/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-24">
+          <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youyou_config_client/src/main/java/com/youyou/platform/ConfigClientApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67">
+          <caret line="16" column="31" lean-forward="true" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/config-client-dev.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" selection-start-column="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youyou_config_client/src/main/resources/bootstrap.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="17" column="25" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -906,7 +962,6 @@
             <option name="proportions">
               <list>
                 <option value="0.13736792" />
-                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
@@ -949,12 +1004,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>youyou_platform</last-edited>
+          <last-edited>youyou_config_client</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.13736792" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

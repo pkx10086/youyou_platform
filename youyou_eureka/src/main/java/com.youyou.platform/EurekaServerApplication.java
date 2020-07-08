@@ -1,5 +1,5 @@
-package youyou_platform;
 
+package com.youyou.platform;
 /*
  * @description: eureka 注册服务中心
  * @param

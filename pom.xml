@@ -31,6 +31,7 @@
       <module>youyou_fegin_client</module>
       <module>youyou_zuul_client</module>
       <module>youyou_config_server</module>
+      <module>youyou_config_client</module>
   </modules>
   <dependencies>
     <dependency>
