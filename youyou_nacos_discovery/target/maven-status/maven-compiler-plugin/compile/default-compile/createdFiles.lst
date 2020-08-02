@@ -1,0 +1,12 @@
+com\youyou\platform\config\SwaggerConfig.class
+com\youyou\platform\enums\ResultCode.class
+com\youyou\platform\vo\ResultVO.class
+com\youyou\platform\controller\DiscoveryController.class
+com\youyou\platform\config\ExceptionControllerAdvice.class
+com\youyou\platform\NacosDiscoveryApplication.class
+com\youyou\platform\config\ResponseControllerAdvice.class
+com\youyou\platform\exception\APIException.class
+com\youyou\platform\entity\User.class
+com\youyou\platform\controller\UserController.class
+com\youyou\platform\service\impl\UserServiceImpl.class
+com\youyou\platform\service\UserService.class

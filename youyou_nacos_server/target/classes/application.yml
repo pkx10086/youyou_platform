@@ -1,0 +1,13 @@
+server:
+  port: 8088
+nacos:
+  config:
+    server-addr: 10.1.249.73:8848
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+    health:
+      show-details: always

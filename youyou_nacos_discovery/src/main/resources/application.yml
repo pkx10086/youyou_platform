@@ -1,0 +1,7 @@
+server:
+  port: 8089
+nacos:
+  discovery:
+    server-addr: 10.1.249.73:8848
+swagger:
+  enable: true

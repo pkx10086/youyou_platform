@@ -32,13 +32,15 @@
       <module>youyou_zuul_client</module>
       <module>youyou_config_server</module>
       <module>youyou_config_client</module>
+      <module>youyou_nacos_server</module>
+      <module>youyou_nacos_discovery</module>
   </modules>
   <dependencies>
-    <dependency>
-      <groupId>org.springframework.boot</groupId>
-      <artifactId>spring-boot-starter-test</artifactId>
-      <scope>test</scope>
-    </dependency>
+<!--    <dependency>-->
+<!--      <groupId>org.springframework.boot</groupId>-->
+<!--      <artifactId>spring-boot-starter-test</artifactId>-->
+<!--      <scope>test</scope>-->
+<!--    </dependency>-->
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>

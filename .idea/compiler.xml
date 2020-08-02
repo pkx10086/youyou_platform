@@ -8,7 +8,9 @@
         <outputRelativeToContentRoot value="true" />
         <module name="youyou_config_server" />
         <module name="youyou_config_client" />
+        <module name="youyou_nacos_server" />
         <module name="youyou_eureka_client" />
+        <module name="youyou_nacos_discovery" />
         <module name="youyou_eureka" />
         <module name="youyou_fegin_client" />
         <module name="youyou_ribbon_client" />
@@ -22,6 +24,8 @@
       <module name="youyou_eureka" options="-parameters" />
       <module name="youyou_eureka_client" options="-parameters" />
       <module name="youyou_fegin_client" options="-parameters" />
+      <module name="youyou_nacos_discovery" options="-parameters" />
+      <module name="youyou_nacos_server" options="-parameters" />
       <module name="youyou_platform" options="-parameters" />
       <module name="youyou_ribbon_client" options="-parameters" />
       <module name="youyou_zuul_client" options="-parameters" />
