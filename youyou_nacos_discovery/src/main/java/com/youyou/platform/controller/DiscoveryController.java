@@ -29,5 +29,8 @@ public class DiscoveryController {
     @ResponseBody
     public List<Instance> get(@RequestParam String serviceName) throws NacosException {
         return namingService.getAllInstances(serviceName);
+
+
+
     }
 }

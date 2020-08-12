@@ -3,7 +3,7 @@ package com.youyou.platform.exception;
 import lombok.Getter;
 
 /**
- * @author RudeCrab
+ * @author pankx
  * @description 自定义异常
  */
 @Getter //只要getter方法，无需setter

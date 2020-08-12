@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RestControllerAdvice;
 import org.springframework.web.servlet.mvc.method.annotation.ResponseBodyAdvice;
 
 /**
- * @author RudeCrab
+ * @author pankx
  * @description
  */
 @RestControllerAdvice(basePackages = {"com.youyou.platform.controller"})

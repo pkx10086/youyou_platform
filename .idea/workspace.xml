@@ -2,67 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95a0ae88-da43-455d-a924-29f45b649d4d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/youyou_nacos_discovery/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_nacos_discovery/src/main/java/com/youyou/platform/config/ExceptionControllerAdvice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_nacos_discovery/src/main/java/com/youyou/platform/config/ResponseControllerAdvice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_nacos_discovery/src/main/java/com/youyou/platform/config/SwaggerConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_nacos_discovery/src/main/java/com/youyou/platform/controller/DiscoveryController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_nacos_discovery/src/main/java/com/youyou/platform/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_nacos_discovery/src/main/java/com/youyou/platform/entity/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_nacos_discovery/src/main/java/com/youyou/platform/enums/ResultCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_nacos_discovery/src/main/java/com/youyou/platform/exception/APIException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_nacos_discovery/src/main/java/com/youyou/platform/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_nacos_discovery/src/main/java/com/youyou/platform/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_nacos_discovery/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_nacos_discovery/youyou_nacos_discovery.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_nacos_server/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_nacos_server/src/main/java/com/youyou/platform/controller/ConfigController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_nacos_server/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/youyou_nacos_server/youyou_nacos_server.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/youyou_config_client/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/youyou_config_client/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/youyou_config_client/src/main/resources/bootstrap.properties" beforeDir="false" afterPath="$PROJECT_DIR$/youyou_config_client/src/main/resources/bootstrap.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/youyou_config_client/target/classes/bootstrap.properties" beforeDir="false" afterPath="$PROJECT_DIR$/youyou_config_client/target/classes/bootstrap.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/youyou_config_client/target/classes/com/youyou/platform/ConfigClientApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/youyou_config_client/target/classes/com/youyou/platform/controller/HelloController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/youyou_config_client/target/surefire-reports/TEST-com.youyou.platform.AppTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/youyou_config_client/target/surefire-reports/TEST-com.youyou.platform.AppTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/youyou_config_client/target/surefire-reports/com.youyou.platform.AppTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/youyou_config_client/target/surefire-reports/com.youyou.platform.AppTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/youyou_config_client/target/youyou_config_client-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/youyou_config_client/target/youyou_config_client-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/youyou_config_server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/youyou_config_server/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/youyou_config_server/src/main/java/com/youyou/platform/ConfigServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/youyou_config_server/src/main/java/com/youyou/platform/ConfigServerApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/youyou_config_server/src/main/resources/bootstrap.properties" beforeDir="false" afterPath="$PROJECT_DIR$/youyou_config_server/src/main/resources/bootstrap.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/youyou_config_server/target/classes/bootstrap.properties" beforeDir="false" afterPath="$PROJECT_DIR$/youyou_config_server/target/classes/bootstrap.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/youyou_config_server/target/classes/com/youyou/platform/ConfigServerApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/youyou_config_server/target/classes/com/youyou/platform/ConfigServerApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/youyou_config_server/target/surefire-reports/TEST-com.youyou.platform.AppTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/youyou_config_server/target/surefire-reports/TEST-com.youyou.platform.AppTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/youyou_config_server/target/surefire-reports/com.youyou.platform.AppTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/youyou_config_server/target/surefire-reports/com.youyou.platform.AppTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/youyou_config_server/target/youyou_config_server-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/youyou_config_server/target/youyou_config_server-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/youyou_eureka/target/surefire-reports/TEST-com.youyou.platform.AppTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/youyou_eureka/target/surefire-reports/TEST-com.youyou.platform.AppTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/youyou_eureka/target/surefire-reports/com.youyou.platform.AppTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/youyou_eureka/target/surefire-reports/com.youyou.platform.AppTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/youyou_eureka/target/youyou_eureka-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/youyou_eureka/target/youyou_eureka-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/youyou_eureka_client/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/youyou_eureka_client/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/youyou_eureka_client/src/main/java/com/youyou/platform/EurekaClientApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/youyou_eureka_client/src/main/java/com/youyou/platform/EurekaClientApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/youyou_eureka_client/src/main/java/com/youyou/platform/controller/TestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/youyou_eureka_client/src/main/java/com/youyou/platform/controller/TestController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/youyou_eureka_client/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/youyou_eureka_client/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/youyou_eureka_client/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/youyou_eureka_client/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/youyou_eureka_client/target/classes/com/youyou/platform/EurekaClientApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/youyou_eureka_client/target/classes/com/youyou/platform/EurekaClientApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/youyou_eureka_client/target/classes/com/youyou/platform/controller/TestController.class" beforeDir="false" afterPath="$PROJECT_DIR$/youyou_eureka_client/target/classes/com/youyou/platform/controller/TestController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/youyou_eureka_client/target/surefire-reports/TEST-com.youyou.platform.AppTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/youyou_eureka_client/target/surefire-reports/TEST-com.youyou.platform.AppTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/youyou_eureka_client/target/surefire-reports/com.youyou.platform.AppTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/youyou_eureka_client/target/surefire-reports/com.youyou.platform.AppTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/youyou_eureka_client/target/youyou_eureka_client-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/youyou_eureka_client/target/youyou_eureka_client-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/youyou_fegin_client/target/surefire-reports/TEST-com.youyou.platform.AppTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/youyou_fegin_client/target/surefire-reports/TEST-com.youyou.platform.AppTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/youyou_fegin_client/target/surefire-reports/com.youyou.platform.AppTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/youyou_fegin_client/target/surefire-reports/com.youyou.platform.AppTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/youyou_fegin_client/target/youyou_fegin_client-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/youyou_fegin_client/target/youyou_fegin_client-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/youyou_ribbon_client/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/youyou_ribbon_client/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/youyou_ribbon_client/src/main/java/com/youyou/platform/RibbonClientApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/youyou_ribbon_client/src/main/java/com/youyou/platform/RibbonClientApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/youyou_ribbon_client/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/youyou_ribbon_client/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/youyou_ribbon_client/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/youyou_ribbon_client/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/youyou_ribbon_client/target/classes/com/youyou/platform/RibbonClientApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/youyou_ribbon_client/target/classes/com/youyou/platform/RibbonClientApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/youyou_ribbon_client/target/surefire-reports/TEST-com.youyou.platform.AppTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/youyou_ribbon_client/target/surefire-reports/TEST-com.youyou.platform.AppTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/youyou_ribbon_client/target/surefire-reports/com.youyou.platform.AppTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/youyou_ribbon_client/target/surefire-reports/com.youyou.platform.AppTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/youyou_ribbon_client/target/youyou_ribbon_client-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/youyou_ribbon_client/target/youyou_ribbon_client-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youyou_nacos_discovery/src/main/java/com/youyou/platform/config/ExceptionControllerAdvice.java" beforeDir="false" afterPath="$PROJECT_DIR$/youyou_nacos_discovery/src/main/java/com/youyou/platform/config/ExceptionControllerAdvice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youyou_nacos_discovery/src/main/java/com/youyou/platform/config/ResponseControllerAdvice.java" beforeDir="false" afterPath="$PROJECT_DIR$/youyou_nacos_discovery/src/main/java/com/youyou/platform/config/ResponseControllerAdvice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youyou_nacos_discovery/src/main/java/com/youyou/platform/controller/DiscoveryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/youyou_nacos_discovery/src/main/java/com/youyou/platform/controller/DiscoveryController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youyou_nacos_discovery/src/main/java/com/youyou/platform/exception/APIException.java" beforeDir="false" afterPath="$PROJECT_DIR$/youyou_nacos_discovery/src/main/java/com/youyou/platform/exception/APIException.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -93,18 +38,30 @@
         <entry file="file://$PROJECT_DIR$/youyou_nacos_discovery/src/main/java/com/youyou/platform/entity/User.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="550">
-              <caret line="31" column="29" lean-forward="true" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
+              <caret line="31" column="29" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/youyou_nacos_discovery/src/main/java/com/youyou/platform/config/ExceptionControllerAdvice.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="23" column="26" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/youyou_nacos_discovery/src/main/java/com/youyou/platform/config/ExceptionControllerAdvice.java">
+        <entry file="file://$PROJECT_DIR$/youyou_nacos_discovery/src/main/java/com/youyou/platform/exception/APIException.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="14" column="21" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="21" />
+            <state relative-caret-position="220">
+              <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="method#APIException#2;class#APIException#0" />
               </folding>
             </state>
           </provider>
@@ -113,11 +70,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/youyou_nacos_discovery/src/main/java/com/youyou/platform/config/ResponseControllerAdvice.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="15" column="19" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="19" />
+            <state relative-caret-position="330">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.5.RELEASE/spring-web-5.1.5.RELEASE.jar!/org/springframework/web/bind/annotation/RestControllerAdvice.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -127,46 +93,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="132">
               <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/youyou_nacos_discovery/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1122">
-              <caret line="51" column="6" selection-start-line="51" selection-start-column="6" selection-end-line="51" selection-end-column="6" />
-            </state>
-          </provider>
-          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$MAVEN_REPOSITORY$/io/springfox/springfox-core/2.9.2/springfox-core-2.9.2.pom">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="13" column="2" selection-start-line="13" selection-start-column="2" selection-end-line="18" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$MAVEN_REPOSITORY$/com/github/xiaoymin/knife4j-spring-boot-autoconfigure/2.0.1/knife4j-spring-boot-autoconfigure-2.0.1.pom">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
-              <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/youyou_nacos_discovery/src/main/java/com/youyou/platform/NacosDiscoveryApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -251,12 +177,10 @@
         <option value="$PROJECT_DIR$/youyou_nacos_server/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/youyou_nacos_discovery/src/main/java/com/youyou/platform/App.java" />
         <option value="$PROJECT_DIR$/youyou_nacos_discovery/src/main/java/com/youyou/platform/controller/DiscoveryController.java" />
-        <option value="$PROJECT_DIR$/youyou_nacos_discovery/src/main/java/com/youyou/platform/exception/APIException.java" />
         <option value="$PROJECT_DIR$/youyou_nacos_discovery/src/main/java/com/youyou/platform/entity/User.java" />
         <option value="$PROJECT_DIR$/youyou_nacos_discovery/src/main/java/com/youyou/platform/service/impl/UserServiceImpl.java" />
         <option value="$PROJECT_DIR$/youyou_nacos_discovery/src/main/java/com/youyou/platform/service/UserService.java" />
         <option value="$PROJECT_DIR$/youyou_nacos_discovery/src/main/java/com/youyou/platform/controller/UserController.java" />
-        <option value="$PROJECT_DIR$/youyou_nacos_discovery/src/main/java/com/youyou/platform/config/ExceptionControllerAdvice.java" />
         <option value="$PROJECT_DIR$/youyou_nacos_discovery/src/main/java/com/youyou/platform/vo/ResultVO.java" />
         <option value="$PROJECT_DIR$/youyou_nacos_discovery/src/main/java/com/youyou/platform/enums/ResultCode.java" />
         <option value="$PROJECT_DIR$/youyou_nacos_discovery/src/main/resources/application.yml" />
@@ -264,7 +188,9 @@
         <option value="$PROJECT_DIR$/youyou_nacos_discovery/src/main/java/com/youyou/platform/config/SwaggerConfig.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/youyou_nacos_discovery/pom.xml" />
+        <option value="$PROJECT_DIR$/youyou_nacos_discovery/src/main/java/com/youyou/platform/config/ExceptionControllerAdvice.java" />
         <option value="$PROJECT_DIR$/youyou_nacos_discovery/src/main/java/com/youyou/platform/config/ResponseControllerAdvice.java" />
+        <option value="$PROJECT_DIR$/youyou_nacos_discovery/src/main/java/com/youyou/platform/exception/APIException.java" />
       </list>
     </option>
   </component>
@@ -286,23 +212,13 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="youyou_nacos_discovery" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="youyou_nacos_discovery" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-      </expand>
+      <expand />
       <select />
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-29" />
-    <option name="y" value="2" />
+    <option name="x" value="-280" />
+    <option name="y" value="107" />
     <option name="width" value="1366" />
     <option name="height" value="768" />
   </component>
@@ -313,7 +229,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -324,57 +239,18 @@
             <path>
               <item name="youyou_platform" type="b2602c69:ProjectViewProjectNode" />
               <item name="youyou_platform" type="462c0819:PsiDirectoryNode" />
-              <item name="youyou_nacos_discovery" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="youyou_platform" type="b2602c69:ProjectViewProjectNode" />
-              <item name="youyou_platform" type="462c0819:PsiDirectoryNode" />
-              <item name="youyou_nacos_discovery" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="youyou_platform" type="b2602c69:ProjectViewProjectNode" />
-              <item name="youyou_platform" type="462c0819:PsiDirectoryNode" />
-              <item name="youyou_nacos_discovery" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="youyou_platform" type="b2602c69:ProjectViewProjectNode" />
-              <item name="youyou_platform" type="462c0819:PsiDirectoryNode" />
-              <item name="youyou_nacos_discovery" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="youyou_platform" type="b2602c69:ProjectViewProjectNode" />
-              <item name="youyou_platform" type="462c0819:PsiDirectoryNode" />
-              <item name="youyou_nacos_discovery" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="platform" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="youyou_platform" type="b2602c69:ProjectViewProjectNode" />
-              <item name="youyou_platform" type="462c0819:PsiDirectoryNode" />
-              <item name="youyou_nacos_discovery" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="platform" type="462c0819:PsiDirectoryNode" />
               <item name="config" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="youyou_platform" type="b2602c69:ProjectViewProjectNode" />
               <item name="youyou_platform" type="462c0819:PsiDirectoryNode" />
               <item name="youyou_nacos_discovery" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youyou_platform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youyou_platform" type="462c0819:PsiDirectoryNode" />
+              <item name="youyou_nacos_discovery" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="platform" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="youyou_platform" type="b2602c69:ProjectViewProjectNode" />
@@ -382,63 +258,12 @@
               <item name="youyou_nacos_discovery" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="platform" type="462c0819:PsiDirectoryNode" />
-              <item name="entity" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="youyou_platform" type="b2602c69:ProjectViewProjectNode" />
-              <item name="youyou_platform" type="462c0819:PsiDirectoryNode" />
-              <item name="youyou_nacos_discovery" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="platform" type="462c0819:PsiDirectoryNode" />
-              <item name="exception" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="youyou_platform" type="b2602c69:ProjectViewProjectNode" />
-              <item name="youyou_platform" type="462c0819:PsiDirectoryNode" />
-              <item name="youyou_nacos_discovery" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="platform" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="youyou_platform" type="b2602c69:ProjectViewProjectNode" />
-              <item name="youyou_platform" type="462c0819:PsiDirectoryNode" />
-              <item name="youyou_nacos_discovery" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="platform" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="youyou_platform" type="b2602c69:ProjectViewProjectNode" />
-              <item name="youyou_platform" type="462c0819:PsiDirectoryNode" />
-              <item name="youyou_nacos_discovery" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="platform" type="462c0819:PsiDirectoryNode" />
-              <item name="vo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="youyou_platform" type="b2602c69:ProjectViewProjectNode" />
-              <item name="youyou_platform" type="462c0819:PsiDirectoryNode" />
-              <item name="youyou_nacos_discovery" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -603,7 +428,11 @@
       <workItem from="1595237677467" duration="639000" />
       <workItem from="1595472309832" duration="651000" />
       <workItem from="1596294130160" duration="6220000" />
-      <workItem from="1596352052352" duration="1623000" />
+      <workItem from="1596352052352" duration="5940000" />
+      <workItem from="1597109109207" duration="183000" />
+      <workItem from="1597110572722" duration="208000" />
+      <workItem from="1597155935668" duration="634000" />
+      <workItem from="1597217746618" duration="378000" />
     </task>
     <task id="LOCAL-00001" summary="初始提交">
       <created>1594045838802</created>
@@ -661,17 +490,23 @@
       <option name="project" value="LOCAL" />
       <updated>1594889080276</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="统一异常管理，统一验证">
+      <created>1596373102499</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1596373102499</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="98816000" />
+    <option name="totallyTimeSpent" value="104591000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.48892674" visible="true" weight="0.23071104" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.48892674" visible="true" weight="0.35627836" />
       <window_info id="Structure" order="1" sideWeight="0.51107323" side_tool="true" weight="0.24962178" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -688,7 +523,7 @@
       <window_info anchor="bottom" id="ConsoleMavenPlugin" order="6" weight="0.32879046" />
       <window_info anchor="bottom" id="TODO" order="7" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.17019667" side_tool="true" visible="true" weight="0.069846675" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.17019667" side_tool="true" visible="true" weight="0.1737649" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Version Control" order="11" weight="0.3781942" />
       <window_info anchor="bottom" id="Spring" order="12" weight="0.32993197" />
@@ -754,7 +589,8 @@
     <MESSAGE value="高可用配置中心" />
     <MESSAGE value="高可用配置中心1" />
     <MESSAGE value="高可用配置中心27" />
-    <option name="LAST_COMMIT_MESSAGE" value="高可用配置中心27" />
+    <MESSAGE value="统一异常管理，统一验证" />
+    <option name="LAST_COMMIT_MESSAGE" value="统一异常管理，统一验证" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -781,23 +617,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/youyou_fegin_client/src/main/java/com/youyou/platform/controller/FeginController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="19" column="31" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/youyou_ribbon_client/src/main/java/com/youyou/platform/service/TestRibbonRestService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="18" column="17" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/youyou_ribbon_client/src/main/java/com/youyou/platform/service/impl/TestRibbonRestImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="319">
@@ -1129,6 +948,64 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.5.RELEASE/spring-web-5.1.5.RELEASE.jar!/org/springframework/web/bind/annotation/ExceptionHandler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../projects/xxl-sso-master/xxl-sso-master/xxl-sso-core/src/main/java/com/xxl/sso/core/filter/XxlSsoTokenFilter.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.5.RELEASE/spring-web-5.1.5.RELEASE.jar!/org/springframework/web/bind/MethodArgumentNotValidException.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youyou_nacos_discovery/src/main/java/com/youyou/platform/entity/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="31" column="29" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youyou_nacos_discovery/src/main/java/com/youyou/platform/config/ExceptionControllerAdvice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="23" column="26" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youyou_nacos_discovery/src/main/java/com/youyou/platform/config/ResponseControllerAdvice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.5.RELEASE/spring-web-5.1.5.RELEASE.jar!/org/springframework/web/bind/annotation/RestControllerAdvice.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.5.RELEASE/spring-webmvc-5.1.5.RELEASE.jar!/org/springframework/web/servlet/mvc/method/annotation/ResponseBodyAdvice.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/youyou_nacos_discovery/src/main/java/com/youyou/platform/vo/ResultVO.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -1147,57 +1024,12 @@
       </provider>
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/youyou_nacos_discovery/src/main/java/com/youyou/platform/entity/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="31" column="29" lean-forward="true" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.5.RELEASE/spring-web-5.1.5.RELEASE.jar!/org/springframework/web/bind/annotation/ExceptionHandler.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/youyou_nacos_discovery/src/main/java/com/youyou/platform/exception/APIException.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.5.RELEASE/spring-web-5.1.5.RELEASE.jar!/org/springframework/web/bind/MethodArgumentNotValidException.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-297">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.5.RELEASE/spring-webmvc-5.1.5.RELEASE.jar!/org/springframework/web/servlet/mvc/method/annotation/ResponseBodyAdvice.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/youyou_nacos_discovery/src/main/java/com/youyou/platform/config/ResponseControllerAdvice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="15" column="19" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="19" />
+        <state relative-caret-position="220">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
           <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/youyou_nacos_discovery/src/main/java/com/youyou/platform/config/ExceptionControllerAdvice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="14" column="21" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="method#APIException#2;class#APIException#0" />
           </folding>
         </state>
       </provider>
