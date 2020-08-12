@@ -14,6 +14,6 @@ public class NacosDiscoveryApplication
 {
     public static void main( String[] args )
     {
-        System.out.print("1111111111");
+        System.out.print("222");
         SpringApplication.run(NacosDiscoveryApplication.class, args);    }
 }
