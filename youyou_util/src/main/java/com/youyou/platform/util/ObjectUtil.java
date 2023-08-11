@@ -46,8 +46,8 @@ public class ObjectUtil {
         transform(map,Integer::valueOf);
 
         Map<String, String> map2 = newHashMap("k", new User("aa",1), "a", "2", "b", "3");
-        Map<String, Tuser> transform = ObjectUtil.transform(map, Test::poToDto);
-        transform.forEach((k,v)->{System.out.println(k+"->"+v.getTname()+"->"+v.getTage());});
+       // Map<String, Tuser> transform = ObjectUtil.transform(map, Test::poToDto);
+        //transform.forEach((k,v)->{System.out.println(k+"->"+v.getTname()+"->"+v.getTage());});
     }
 
     /**
