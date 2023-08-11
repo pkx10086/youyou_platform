@@ -34,6 +34,7 @@
       <module>youyou_config_client</module>
       <module>youyou_nacos_server</module>
       <module>youyou_nacos_discovery</module>
+    <module>youyou_util</module>
   </modules>
   <dependencies>
 <!--    <dependency>-->
